@@ -12,3 +12,8 @@ I also recommend adding the following filter lists to uBlock in order to block c
 > **Warning**
 > 
 > I do not gurantee that the filter list will block all elements that might dox you (since I am only one person, using only so many services), so please still apply common sense when browsing the web on stream or smth!
+
+## Recommended Filter Lists (Others)
+- [Legitimate URL Shortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt) [[Install]](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt&title=Legitimate%20URL%20Shortener)
+- [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
+- [letsblock.it](https://letsblock.it)
