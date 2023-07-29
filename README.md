@@ -2,7 +2,8 @@
 
 ## [No Doxxing](https://github.com/Adolar0042/misc/no-doxxing.txt) [[Install]](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Adolar0042/misc/main/no-doxxing.txt&title=No%20Doxxing)
 
-A filter list intended for use in uBlock Origin that contains a few common items that show either location or ip that I come across
+A filter list intended for use in uBlock Origin that contains a few common items that show either location or ip that I come across.
+
 Feel free to contribute stuff you find to it.
 
 I also recommend adding the following filter lists to uBlock in order to block common ip-grabbers:
