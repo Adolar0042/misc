@@ -1,0 +1,7 @@
+!This file is intended for use in uBlock Origin and contains a few common items that show either location or ip that I come across
+!I also recommend adding the following filter lists to uBlock in order to block common ip-grabbers
+! https://gist.githubusercontent.com/M-rcus/9af3207273bf5d30b28c2e3892f1a412/raw/fa69c2cec0a58c0b5d10f7addf5ec90c962b5eff/Grabify_Domains.txt
+! https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
+
+! Anti-Google-Dox - removes exact location and ip from bottom of search results
+www.google.com##.b2hzT.fbar
