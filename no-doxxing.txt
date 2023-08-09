@@ -5,3 +5,6 @@
 
 ! Anti-Google-Dox - removes exact location and ip from bottom of search results
 www.google.com##.b2hzT.fbar
+
+! Anti-YouTube-Dox - removes country code from youtube logo
+www.youtube.com###country-code
