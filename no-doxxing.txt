@@ -3,10 +3,13 @@
 ! Expires: 3 days
 ! Homepage: https://github.com/adolar0042/misc
 
-! Anti-Google-Dox - removes exact location and ip from bottom of search results
+! Removes exact location from bottom of google search results
 www.google.*##.b2hzT.fbar
 www.google.*##.p1wuWb
 www.google.*##.uU7dJb
 
-! Anti-YouTube-Dox - removes country code from youtube logo
+! Removes country code from youtube logo
 www.youtube.com###country-code
+
+! Removes search country from top of brave search results
+search.brave.com###country > .svelte-1s6feue.filter-name
