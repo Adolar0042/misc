@@ -4,8 +4,9 @@
 ! Homepage: https://github.com/adolar0042/misc
 
 ! Anti-Google-Dox - removes exact location and ip from bottom of search results
-www.google.com##.b2hzT.fbar
-www.google.com##.p1wuWb
+www.google.*##.b2hzT.fbar
+www.google.*##.p1wuWb
+www.google.*##.uU7dJb
 
 ! Anti-YouTube-Dox - removes country code from youtube logo
 www.youtube.com###country-code
