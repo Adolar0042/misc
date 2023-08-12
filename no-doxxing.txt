@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Title: Adolar's No-Doxxing List
-! Description: A filter list that contains a few common items that show either location or ip that I come across
+! Description: A filter list that contains a few common items that show either location, ip or other potentially dangerous information that I come across
 ! Expires: 3 days
 ! Homepage: https://github.com/adolar0042/misc
 
