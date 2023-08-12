@@ -1,15 +1,19 @@
+[uBlock Origin]
 ! Title: Adolar's No-Doxxing List
 ! Description: A filter list that contains a few common items that show either location or ip that I come across
 ! Expires: 3 days
 ! Homepage: https://github.com/adolar0042/misc
 
-! Removes exact location from bottom of google search results
+! Remove exact location from bottom of google search results
 www.google.*##.b2hzT.fbar
 www.google.*##.p1wuWb
 www.google.*##.uU7dJb
 
-! Removes country code from youtube logo
+! Remove country code from youtube logo
 www.youtube.com###country-code
 
-! Removes search country from top of brave search results
+! Remove search country from top of brave search results
 search.brave.com###country > .svelte-1s6feue.filter-name
+
+! Remove email from top menu
+chrome.google.com##.FJqmKb
