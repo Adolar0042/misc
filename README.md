@@ -1,6 +1,6 @@
 # Misc - a mashup of random files
 
-## [No Doxxing](https://github.com/Adolar0042/misc/no-doxxing.txt) [[Install]](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Adolar0042/misc/main/no-doxxing.txt&title=No%20Doxxing)
+## [No Doxxing](https://github.com/Adolar0042/misc/blob/main/no-doxxing.txt) [[Install]](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Adolar0042/misc/main/no-doxxing.txt&title=No%20Doxxing)
 
 A filter list intended for use in uBlock Origin that contains a few common items that show either location or ip that I come across.
 
