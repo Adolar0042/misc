@@ -9,11 +9,11 @@ www.google.*##.b2hzT.fbar
 www.google.*##.p1wuWb
 www.google.*##.uU7dJb
 
+! Remove email from top menu
+chrome.google.*##.FJqmKb
+
 ! Remove country code from youtube logo
 www.youtube.com###country-code
 
 ! Remove search country from top of brave search results
 search.brave.com###country > .svelte-1s6feue.filter-name
-
-! Remove email from top menu
-chrome.google.com##.FJqmKb
