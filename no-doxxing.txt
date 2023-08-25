@@ -8,6 +8,7 @@
 www.google.*##.b2hzT.fbar
 www.google.*##.p1wuWb
 www.google.*##.uU7dJb
+www.google.*##.wHYlTd.vqkKIe
 
 ! Remove email from top menu
 chrome.google.*##.FJqmKb
