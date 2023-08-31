@@ -18,3 +18,6 @@ www.youtube.com###country-code
 
 ! Remove search country from top of brave search results
 search.brave.com###country > .svelte-1s6feue.filter-name
+
+! Remove city and zip code from amazon
+www.amazon.*###glow-ingress-block > .nav-progressive-content.nav-line-1
