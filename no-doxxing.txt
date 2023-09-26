@@ -10,6 +10,8 @@ www.google.*##.p1wuWb
 www.google.*##.uU7dJb
 www.google.*##.wHYlTd.vqkKIe
 www.google.*##.04T6Pe
+www.google.*##.dfB0uf
+www.google.*###EOlPnc > div > span
 
 ! Remove email from top menu
 chrome.google.*##.FJqmKb
