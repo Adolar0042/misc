@@ -9,10 +9,11 @@ www.google.*##.b2hzT.fbar
 www.google.*##.p1wuWb
 www.google.*##.uU7dJb
 www.google.*##.wHYlTd.vqkKIe
-www.google.*##.04T6Pe
 www.google.*##.dfB0uf
 www.google.*###EOlPnc > div > span
 www.google.*###BK8Sp
+! The "doesn't work because css is shit" corner also known as, gotta find these again and find another way to block them
+! www.google.*##.04T6Pe
 
 ! Remove email from top menu
 chrome.google.*##.FJqmKb
