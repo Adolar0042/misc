@@ -8,8 +8,8 @@ Feel free to contribute stuff you find to it.
 
 I also recommend adding the following filter lists to uBlock in order to block common ip-grabbers:
 
-- [Grabify Domains](https://gist.githubusercontent.com/M-rcus/9af3207273bf5d30b28c2e3892f1a412/raw/fa69c2cec0a58c0b5d10f7addf5ec90c962b5eff/Grabify_Domains.txt) [[Install]](https://subscribe.adblockplus.org/?location=https://gist.githubusercontent.com/M-rcus/9af3207273bf5d30b28c2e3892f1a412/raw/fa69c2cec0a58c0b5d10f7addf5ec90c962b5eff/Grabify_Domains.txt&title=Grabify%20Domains)
-- [Piperun's iplogger filter](https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist) [[Install]](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist&title=Piperun%27s%20iplogger%20filter)
+- ~~[Grabify Domains](https://gist.githubusercontent.com/M-rcus/9af3207273bf5d30b28c2e3892f1a412/raw/fa69c2cec0a58c0b5d10f7addf5ec90c962b5eff/Grabify_Domains.txt)[[Install]](https://subscribe.adblockplus.org/?location=https://gist.githubusercontent.com/M-rcus/9af3207273bf5d30b28c2e3892f1a412/raw/fa69c2cec0a58c0b5d10f7addf5ec90c962b5eff/Grabify_Domains.txt&title=Grabify%20Domains)~~ Now comes included with `No Doxxing`
+- ~~[Piperun's iplogger filter](https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist) [[Install]](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist&title=Piperun%27s%20iplogger%20filter)~~ Now comes included with `No Doxxing`
 
 > **Warning**
 >
