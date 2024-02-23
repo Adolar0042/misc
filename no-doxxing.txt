@@ -4,12 +4,20 @@
 ! Expires: 3 days
 ! Homepage: https://github.com/adolar0042/misc
 
-! IP Logger Domains
+!### 3rd Party Filters ###
 
-!#include filterlist
-! >>>>>>>> https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
-!#include Grabify_Domains.txt
-! >>>>>>>> https://gist.githubusercontent.com/M-rcus/9af3207273bf5d30b28c2e3892f1a412/raw/fa69c2cec0a58c0b5d10f7addf5ec90c962b5eff/Grabify_Domains.txt
+!## IP Logger Domains ##
+
+!Obtained from: https://gist.githubusercontent.com/M-rcus/9af3207273bf5d30b28c2e3892f1a412/raw/fa69c2cec0a58c0b5d10f7addf5ec90c962b5eff/Grabify_Domains.txt
+!#include grabify.txt
+! >>>>>>>> https://raw.githubusercontent.com/Adolar0042/misc/main/grabify.txt
+!Obtained from: https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
+!License: GPL-2.0 (found at https://github.com/piperun/iploggerfilter)
+!There are no changes made to the original list.
+!#include iploggers.txt
+! >>>>>>>> https://raw.githubusercontent.com/Adolar0042/misc/main/iploggers.txt
+
+!### Filters ###
 
 ! Remove exact location from bottom of google search results
 www.google.*##.b2hzT.fbar
